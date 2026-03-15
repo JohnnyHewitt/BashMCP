@@ -3,9 +3,9 @@
 ## Intents
 | No. | Name | Status | Est. | Actual | Notes |
 |----:|------|--------|-----:|-------:|-------|
-| 1   | EvalHooksApproach | Todo | 2h | | Deep dive on hooks-based solutions |
-| 2   | EvalMCPApproach | Todo | 2h | | Deep dive on MCP-based solutions |
-| 3   | EvalAlternativeApproaches | Todo | 2h | | Other angles: settings, prompts, sandboxing, execve |
+| 1   | EvalHooksApproach | Done | 2h | 30m | Hooks can't fully solve it; good as defense-in-depth |
+| 2   | EvalMCPApproach | Done | 2h | 30m | Block+replace viable; no existing MCP server solves it |
+| 3   | EvalAlternativeApproaches | Done | 2h | 30m | Hybrid approach strongest; execve most robust but heavy |
 | 4   | TestTopCandidates | Todo | 2h | | Install and test the most promising solutions |
 | 5   | ArchitectureDecision | Todo | 1h | | Synthesize findings, decide Phase II direction |
 
